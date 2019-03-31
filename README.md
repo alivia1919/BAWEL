@@ -1,3 +1,3 @@
 # BAWEL
 
-![bawel](https://raw.githubusercontent.com/alivia1919/BAWEL/master/bawel.jpg)
+![bawel](https://raw.githubusercontent.com/alivia1919/BAWEL/master/bawel.jpeg)
